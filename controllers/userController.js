@@ -34,6 +34,3 @@ module.exports = { getAllUsers, updateUser, deleteUser };
 
 
 
-// lyynn
-// godrinar
-// mercy
