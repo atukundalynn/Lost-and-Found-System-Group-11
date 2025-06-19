@@ -31,3 +31,9 @@ const deleteUser = async (req, res) => {
 };
 
 module.exports = { getAllUsers, updateUser, deleteUser };
+
+
+
+// lyynn
+// godrinar
+// mercy
